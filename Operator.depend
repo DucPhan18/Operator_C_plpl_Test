@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696929652 source:d:\c++\operator\main.cpp
+	<iostream>
+	<math.h>
+
